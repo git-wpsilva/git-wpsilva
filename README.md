@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mercado Livre as a Loss Prevention SSr Analyst 📉<br>🌱 I’m currently learning Data Science & Analytics from USP-Esalq 📊<br>🎓 I have a postgraduate degree in Project Management 📐<br>🎓 I have a degree in Electrical Engineering ⚡️
+🔭 I’m currently working on Mercado Livre as a LATAM Business Intelligence Sr Analyst 📉<br>🌱 I’m currently learning Data Science & Analytics from USP-Esalq 📊<br>🎓 I have a postgraduate degree in Project Management 📐<br>🎓 I have a degree in Electrical Engineering ⚡️
 
 
 ## 🌐 Socials:
